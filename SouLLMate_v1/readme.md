@@ -20,20 +20,19 @@ SouLLMate is an advanced AI-powered platform designed to provide comprehensive p
 ## Installation
 
 1. Clone the repository:
-   conda env create -f environment.yml
+conda env create -f environment.yml
 
 2. Activate the environment:
-   conda activate chatbot
+conda activate chatbot
+
 
 ## Configuration
 
 1. Set up your OpenAI API key:
-
 - Open the `Config` class in the main script.
-- Replace `"YOUR API KEY"` with your actual OpenAI API key.
+- Replace `"Your Api Key" ` with your actual OpenAI API key.
 
 2. Ensure you have the necessary folders:
-
 - Create a folder named `Rag_document` in the project directory for RAG functionality.
 
 ## Running the Application
@@ -41,7 +40,7 @@ SouLLMate is an advanced AI-powered platform designed to provide comprehensive p
 1. Make sure you're in the project directory and your conda environment is activated.
 
 2. Run the main script:
-   python main.py
+python main.py
 
 3. Open a web browser and navigate to `http://localhost:5006` to access the SouLLMate interface.
 
@@ -74,11 +73,11 @@ This application is for educational and demonstration purposes only. It is not a
 
 ## License
 
-[Insert your chosen license here]
+[GPL-3.0 license: https://github.com/QM378/SouLLMate/blob/main/LICENSE]
 
 ## Contact
 
-For support or inquiries, please contact [Your Contact Information].
+For support or inquiries, please contact [guoqm07@gmail.com, tangjw91@gmail.com].
 
 ## Acknowledgments
 
